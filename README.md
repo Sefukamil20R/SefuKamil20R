@@ -12,7 +12,7 @@
 - 👨‍💻 Check out my projects and see what I’ve built: [My Portfolio](https://portfolio-sefina.netlify.app/)
 - 💬 Let's talk about **Full-stack development with React, Node, and Flutter for mobile**.
 - 📫 Reach out to me at **Tenzilk20@gmail.com**.
-- 📄 Explore my experiences and career journey [here](https://drive.google.com/file/d/10gbHVV0sXi9vn4N3PM3fay2-p2eHCFqK/view?usp=drive_link).
+- 📄 Explore my experiences  [here](https://drive.google.com/file/d/10gbHVV0sXi9vn4N3PM3fay2-p2eHCFqK/view?usp=drive_link).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
