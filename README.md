@@ -9,17 +9,13 @@
   Passionate about building intuitive digital experiences, I specialize in <strong>MERN stack</strong> and <strong>Flutter mobile development</strong>. I thrive on solving real-world problems and transforming ideas into seamless web and mobile apps.
 </p>
 
----
-
 ### 🚀 About Me
-- 🔭 Currently building awesome full-stack apps with **React**, **Node.js**, and **Flutter**.
-- 🤝 Open to collaborating on **innovative, impactful projects**.
-- 🌐 Portfolio: [portfolio-sefina.netlify.app](https://portfolio-sefina.netlify.app/)
-- 💬 Let’s chat about **React, Node, Flutter, Firebase, and beyond**.
-- 📧 Reach me at: **Tenzilk20@gmail.com**
-- 📄 [View My Resume](https://drive.google.com/file/d/10gbHVV0sXi9vn4N3PM3fay2-p2eHCFqK/view?usp=drive_link)
-
----
+- 🔭 Currently building awesome full-stack apps with **React**, **Node.js**, and **Flutter**  
+- 🤝 Open to collaborating on **innovative, impactful projects**  
+- 🌐 Portfolio: [portfolio-sefina.netlify.app](https://portfolio-sefina.netlify.app/)  
+- 💬 Let’s chat about **React, Node, Flutter, Firebase, and beyond**  
+- 📧 Reach me at: **Tenzilk20@gmail.com**  
+- 📄 [View My Resume](https://drive.google.com/file/d/10gbHVV0sXi9vn4N3PM3fay2-p2eHCFqK/view?usp=drive_link)  
 
 ### 🌐 Connect with Me
 <p>
@@ -27,8 +23,6 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" />
   </a>
 </p>
-
----
 
 ### 🛠️ Tech Stack
 
@@ -68,8 +62,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" />
 </p>
 
----
-
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sefukamil20r&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -78,8 +70,3 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sefukamil20r&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-
----
-
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House  
-> Let's write clean, beautiful, meaningful code.
